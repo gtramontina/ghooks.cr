@@ -1,0 +1,10 @@
+name: ghooks.cr
+version: 0.1.0
+
+authors:
+  - Guilherme J. Tramontina <guilherme.tramontina@gmail.com>
+
+scripts:
+  postinstall: make install
+
+license: MIT
